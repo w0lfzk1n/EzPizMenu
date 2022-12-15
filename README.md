@@ -28,7 +28,7 @@ Options:
 
 Add your own scripts, that you can quickaccess with this option.
 
-**Admin/Commands**:
+**Admin/Commands**: Run commands
 
 Add your own commands, that you can quickaccess with this option.
 
@@ -37,13 +37,13 @@ Everything else is just me expaning my python knowledge.
 ## Disclaimer
 
 I AM NOT A PRO PROGAMMER! I AM A LEARNER.
+
 THIS CODE IS NOT PERFECT AND CONTAINS BUGS, ERRORS AND SPAGHETTI.
+
 IT HAS BEEN CREATED FOR PERSONAL PURPOSES, BUT I GOT ASKED TO MAKE IT PUBLIC.
+
 YOU CAN FREELY EDIT THE CODE, TO MEET YOUR EXPECTATIONS OR HELP ME, MAKE THE CODE BETTER <3
 
-## Author
-- [@w0lfzk1nd GITHUB](https://www.github.com/w0lfzk1n)
-- [Discord Toxic_Wolf#2468]
 
 ## Authors
 
