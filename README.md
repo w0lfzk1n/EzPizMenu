@@ -4,7 +4,11 @@
 
 ![EzPiz](https://i.postimg.cc/QtGTTbDr/Ez-Piz-001.png)
 
+**Manager Menu**
+
 ![Manager Menu](https://i.postimg.cc/Sx8n69xL/Ez-Piz-001-manager.png)
+
+**File explorer*
 
 ![File Explorer](https://i.postimg.cc/RV23Jd4V/Ez-Piz-001-Fileexplorer.png)
 
