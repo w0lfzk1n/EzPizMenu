@@ -34,7 +34,7 @@ Customizable for your own needs.
     
 # Showcase
 
-![EzPiz Menu](https://ibb.co/d4rQ364)
+![EzPiz Menu]((https://postimg.cc/6yKwPmtL))
 
 # Content
 
