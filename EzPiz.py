@@ -9,7 +9,7 @@ try:
     import psutil
     import random
 except ImportError:
-    print("Einige Module fehlen. Möchten Sie diese installieren? (y/n)")
+    print("Some required modules are not installed, would you like to install them? (y/n)")
     answer = input()
     if answer == 'y':
         import pip
@@ -23,8 +23,8 @@ except ImportError:
         pip.main(['install', 'random'])
         os.system("cls")
         print(
-            "Die Module wurden erfolgreich installiert. Das Skript wird nun neu gestartet.")
-        time.sleep(2)
+            "The Moduls should be installed, skript will restart in 3 seconds.")
+        time.sleep(3)
         os.system("cls")
         os.system("python EzPiz.py")
     else:
