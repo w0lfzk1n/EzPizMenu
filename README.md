@@ -1,4 +1,6 @@
-# EzPiz
+# EzPiz Manager Menu
+
+*by w0lFzk1nD*
 
 ![EzPiz](https://i.postimg.cc/QtGTTbDr/Ez-Piz-001.png)
 
