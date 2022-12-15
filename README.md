@@ -11,6 +11,8 @@ Compact in one single file.
 
 Easy to use and no installment needed.
 
+    Just run python3 EzPiz.py
+
 Customizable for your own needs.
 
 # Disclaimer
