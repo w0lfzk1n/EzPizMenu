@@ -4,6 +4,10 @@
 
 ![EzPiz](https://i.postimg.cc/QtGTTbDr/Ez-Piz-001.png)
 
+![Manager Menu](https://i.postimg.cc/Sx8n69xL/Ez-Piz-001-manager.png)
+
+![File Explorer](https://i.postimg.cc/RV23Jd4V/Ez-Piz-001-Fileexplorer.png)
+
 EzPiz is a program designed to make it easier to use commands on a Raspberry Pi via SSH. It is simple to use and the complete code is contained in one single file. The design can be changed at any time in the function list_current(). Before running, the code has to be modified in the 'SETTINGS' section.
 
 Options:
