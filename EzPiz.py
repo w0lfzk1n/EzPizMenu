@@ -127,7 +127,7 @@ show_files = False
 
 
 # current path to script file
-path_to_menuscript = os.path.dirname(os.path.realpath(__file__)) + skName
+path_to_menuscript = os.path.dirname(os.path.realpath(__file__)) + "/"+skName
 
 # Custom path for fast travel and file stuff
 # Customize as you want
