@@ -7,6 +7,10 @@
 
 A simple and usefull Pythonscript to manage your Raspberry Pi / Debianbased servers Files, run custom scripts and commands.
 
+DOES NOT WORK ON WINDOWS, YOU HAVE TO EDIT THE COMMANDS IF YOU WANT TO!
+
+BUT THIS PROJECT IS MADE FOR LINUX BASED COMPUTERS.!
+
 Compact in one single file.
 
 Easy to use and no installment needed.
@@ -61,4 +65,10 @@ Admin/Commands = Run Commands
 - [@w0lfzk1nd GITHUB](https://www.github.com/w0lfzk1n)
 
 - [Discord Toxic_Wolf#2468]
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
