@@ -30,6 +30,11 @@ Customizable for your own needs.
     Feel free to modify and change the code yourself, or add your functions as a custom script.
 
     Before starting, you have to edit the *SETTINGS* parts at the start of the code.
+    
+    
+# Showcase
+
+![EzPiz Menu] (https://ibb.co/d4rQ364)
 
 # Content
 
