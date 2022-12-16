@@ -29,7 +29,7 @@ Options:
 - delete: Delete a file/s or folder/s
 - zip: Zip a file/s or folder/s
 - unzip: Unzip a zipfile
-- ch: Change current path into folder in current path
+- ch: Change directory into folder of current path
 - rsync: Create a Backup of a file or folder to custom path
 
 **Scripts**: Run Scripts
